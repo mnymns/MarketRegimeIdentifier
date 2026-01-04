@@ -38,12 +38,12 @@ This project serves as a practical introduction to regime analysis using time se
 
 * Volatility is estimated using the EWMA model:
 
-[ \sigma_t^2 = \lambda \sigma_{t-1}^2 + (1 - \lambda) r_{t-1}^2 ]
+σ_t² = λ · σ_{t-1}² + (1 − λ) · r_{t-1}²
 
 Where:
 
-* ( r_t ) is the log return
-* ( \lambda ) is the decay factor (e.g., 0.94)
+* r_t is the log return
+* λ is the decay factor (e.g., 0.94)
 * Recent observations receive higher weight
 
 ### 3. Regime Identification
