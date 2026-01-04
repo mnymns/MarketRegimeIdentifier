@@ -1,7 +1,5 @@
 # MarketRegimeIdentifier
 
-# MarketRegimeIdentifier
-
 ## Overview
 
 The **MarketRegimeIdentifier** project analyzes financial time series data to identify different market regimes, such as **low-volatility** and **high-volatility** periods. The goal is to demonstrate how volatility dynamics evolve over time and how regime identification can provide useful context for risk management, portfolio construction, and strategy design.
